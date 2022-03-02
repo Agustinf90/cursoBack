@@ -31,4 +31,4 @@ setTimeout(()=>{
 },2000);
 setTimeout(()=>{
     mostrarLetras(console.log("Proceso Terminado, ", "la cantidad de palabras del texto es: ",texto.split(' ').length))
-},5000);
+},4000);
