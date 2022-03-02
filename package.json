@@ -1,0 +1,19 @@
+
+
+{
+  "name": "cursobacl",
+  "version": "1.0.0",
+  "main": "3erDesafio.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+  "engines": {
+    "npm": "7.13.0",
+    "node": "16.2.0"
+  },
+  "workspaces": [
+    "./packages/*"
+  ]
+}
