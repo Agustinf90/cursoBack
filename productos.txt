@@ -1,0 +1,1 @@
+[{"title":"Fideos","price":200,"thumbnail":"dsgasdgasdg","id":1},{"title":"Agua","price":400,"thumbnail":"sdgqasgadsa","id":2},{"title":"Coca","price":150,"thumbnail":"tgerwqtqwer","id":3},{"title":"Fernet","price":450,"thumbnail":"sdfgerwqtqwer","id":4},{"title":"Paso de los toros","price":250,"thumbnail":"tgerdsfgsdfwqtqwer","id":5}]

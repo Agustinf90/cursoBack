@@ -4,6 +4,7 @@
   "main": "3erDesafio.js",
   "author": "",
   "license": "ISC",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,16 @@
   ],
   "dependencies": {
     "rxjs": "^7.5.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agustinf90/CURSOBACK.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Agustinf90/CURSOBACK/issues"
+  },
+  "homepage": "https://github.com/Agustinf90/CURSOBACK#readme",
+  "description": ""
 }
